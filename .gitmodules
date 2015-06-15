@@ -1,0 +1,3 @@
+[submodule "jquery.kinetic"]
+	path = jquery.kinetic
+	url = https://github.com/davetayls/jquery.kinetic
